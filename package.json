@@ -1,0 +1,22 @@
+{
+  "name": "autube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with VanilaJS and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aucckhan/autube.git"
+  },
+  "author": "AuccKhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aucckhan/autube/issues"
+  },
+  "homepage": "https://github.com/aucckhan/autube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
